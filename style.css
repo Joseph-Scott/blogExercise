@@ -1,5 +1,25 @@
 body {
-	font-family: Source Sans Pro;
-	width: 50%;
+	font-family: Source Sans Pro, sans-serif;
+	font-weight: 600;
+	width: 55%;
+	margin: 22.5%;
 	border-width: 20px;
+}
+
+div {
+	border-bottom: 1px solid #bdc3c7;
+}
+
+h1 {
+	font-weight: 700;
+}
+
+h4 {
+	font-weight: normal;
+	text-transform: uppercase;
+	color: #3498db;
+}
+
+div p:nth-of-type(1) {
+	left-border: 20px #bdc3c7;
 }
