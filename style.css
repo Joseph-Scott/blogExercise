@@ -18,6 +18,7 @@ h4 {
 	font-weight: normal;
 	text-transform: uppercase;
 	color: #3498db;
+	letter-spacing: 3px;
 }
 
 div p:nth-of-type(1) {
