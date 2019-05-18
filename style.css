@@ -5,10 +5,7 @@ body {
 	margin-right: 22.5%;
 	margin-left: 22.5%;
 	padding: 20px;
-	border-top: 20px solid #bdc3c7;
-	border-bottom: 20px solid #bdc3c7;
-	border-right: 20px solid #bdc3c7;
-	border-left: 20px solid #bdc3c7;
+	border: 20px solid #bdc3c7;
 }
 
 hr {
